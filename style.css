@@ -1,0 +1,102 @@
+body {
+  color: black;
+}
+.maxwidth {
+  width: 12%;
+  height: 60px;
+  margin: auto;
+}
+.maxwidth .name {
+  font-size: 40px;
+}
+/* .cont1 {
+  width: 90%;
+  height: 80px;
+  background-color: blueviolet;
+  margin: auto;
+} */
+.tom {
+  width: 90%;
+  height: fit-content;
+  display: flex;
+  margin: auto;
+  gap: 80px;
+}
+.tom .name2 {
+  font-size: 30px;
+}
+.tom .div {
+  width: 50%;
+  height: fit-content;
+}
+.tom .div p {
+  font-size: 25px;
+}
+.tom .zvvn {
+  width: 40%;
+  height: 300px;
+}
+.tom .zvvn img {
+  width: 100%;
+  height: 100%;
+  border-radius: 5%;
+}
+.hoyr {
+  width: 90%;
+  height: fit-content;
+  display: flex;
+  margin: auto;
+  gap: 100px;
+}
+.hoyr .zur {
+  width: 50%;
+  height: fit-content;
+}
+.hoyr .zur p {
+  font-size: 25px;
+}
+.hoyr .bar {
+  width: 40%;
+  height: 350px;
+  margin-top: 70px;
+}
+.hoyr .bar img {
+  width: 100%;
+  height: 100%;
+  border-radius: 5%;
+}
+.gur {
+  width: 90%;
+  height: fit-content;
+  display: flex;
+  margin: auto;
+  gap: 100px;
+}
+.gur .gv {
+  width: 40%;
+  height: 300px;
+}
+.gur .gu {
+  width: 50%;
+  height: fit-content;
+}
+.gur .gv img {
+  width: 100%;
+  height: 100%;
+  border-radius: 5%;
+}
+.gur .gu p {
+  font-size: 23px;
+}
+.tur {
+  width: 35%;
+  height: 300px;
+  margin: auto;
+}
+.tur p {
+  font-size: 30px;
+}
+.tur img {
+  width: 100%;
+  height: 100%;
+}
